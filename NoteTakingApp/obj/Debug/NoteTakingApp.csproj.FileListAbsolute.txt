@@ -1,0 +1,10 @@
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\AISWARYA\Projects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
